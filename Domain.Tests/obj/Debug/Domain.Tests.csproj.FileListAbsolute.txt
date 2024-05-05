@@ -1,0 +1,10 @@
+C:\Users\jealc\source\repos\FlightTestUnit\Domain.Tests\bin\Debug\Domain.Tests.dll
+C:\Users\jealc\source\repos\FlightTestUnit\Domain.Tests\bin\Debug\Domain.Tests.pdb
+C:\Users\jealc\source\repos\FlightTestUnit\Domain.Tests\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\jealc\source\repos\FlightTestUnit\Domain.Tests\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\jealc\source\repos\FlightTestUnit\Domain.Tests\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\jealc\source\repos\FlightTestUnit\Domain.Tests\obj\Debug\Domain.Tests.csproj.AssemblyReference.cache
+C:\Users\jealc\source\repos\FlightTestUnit\Domain.Tests\obj\Debug\Domain.Tests.csproj.CoreCompileInputs.cache
+C:\Users\jealc\source\repos\FlightTestUnit\Domain.Tests\obj\Debug\Domain.T.897DB320.Up2Date
+C:\Users\jealc\source\repos\FlightTestUnit\Domain.Tests\obj\Debug\Domain.Tests.dll
+C:\Users\jealc\source\repos\FlightTestUnit\Domain.Tests\obj\Debug\Domain.Tests.pdb

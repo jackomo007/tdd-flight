@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZjkVSpDiFkGwxPSeCmtnnvnbJqsU0dPwCZIeCiDKBdSY3sI5pMzH3K7yHyQObK50T1bjnjugCfL4TxgWAWTlgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jealc\\source\\repos\\FlightTestUnit\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jealc\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
